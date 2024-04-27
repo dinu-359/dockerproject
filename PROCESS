@@ -27,7 +27,7 @@ docker swarm init --advertise-addr 172.31.85.110
 docker node ls
 
 
-2. INSTALLING JENKINS (MASTER)
+2. INSTALLING JENKINS IN MASTER NODE
 
 #STEP-1: INSTALLING GIT JAVA-1.8.0 MAVEN 
 yum install git java-1.8.0-openjdk maven -y
